@@ -54,7 +54,6 @@ ExportedObj/
 *.mdb
 *.opendb
 *.VC.db
-*.wasm
 
 # Unity3D generated meta files
 *.pidb.meta
@@ -73,6 +72,7 @@ mono_crash.*
 *.unitypackage
 *.unitypackage.meta
 *.app
+.wasm
 
 # Crashlytics generated file
 crashlytics-build.properties
